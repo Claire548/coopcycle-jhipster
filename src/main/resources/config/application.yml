@@ -150,12 +150,12 @@ jhipster:
     title: coopcycle API
     description: coopcycle API documentation
     version: 0.0.1
-    terms-of-service-url:
-    contact-name:
-    contact-url:
-    contact-email:
-    license:
-    license-url:
+    terms-of-service-url: https://mensakas.coopcycle.org/es/legal
+    contact-name: Claire Velut
+    contact-url: https://coopcycle.org/fr/
+    contact-email: contact@coopcycle.org
+    license: Coopyleft
+    license-url: https://wiki.coopcycle.org/fr:license
 # ===================================================================
 # Application specific properties
 # Add your own application properties here, see the ApplicationProperties class
